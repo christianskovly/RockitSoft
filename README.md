@@ -52,7 +52,7 @@ TO DO:
         def install(package):
             try:
                 pip.main(["install",  package])
-                except AttributeError:
+            except AttributeError:
                 check_call([sys.executable, '-m', 'pip', 'install', package])
             call([sys.executable, __file__])
     
