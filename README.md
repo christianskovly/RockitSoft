@@ -34,7 +34,7 @@ TO DO:
 EXAMPLE SCREENS
 
 ALTITUDE
-<img width="1217" alt="Screen Shot 2022-03-13 at 9 22 54 AM" src="https://user-images.githubusercontent.com/66921702/158083084-d9052e65-fd04-4a02-b074-cbae2baeb2ff.png">
+<img width="1224" alt="Screen Shot 2022-03-13 at 4 03 13 PM" src="https://user-images.githubusercontent.com/66921702/158083132-c441553d-c93b-4bf0-b607-216d9b6faefa.png">
 
 FILTERED ALTITUDE
 <img width="1298" alt="Screen Shot 2022-03-13 at 3 56 27 PM" src="https://user-images.githubusercontent.com/66921702/158082883-2a166cb4-eee4-4663-b818-46de4949104d.png">
