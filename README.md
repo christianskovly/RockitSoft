@@ -7,8 +7,15 @@ WHAT IS ROCKIT?
 Rockit is a Raspberry Pi RP2040 based flight computer designed for model rocketry. For more information please visit https://github.com/DanInvents/Rockit. 
 
 DEPENDANCIES
+
+Python must be installed along with plotly, dash and pandas.
+
+To install plotly, dash and pandas enter the following and the command prompt.
+
 pip install plotly
+
 pip install dash
+
 pip install pandas
 
 USAGE
