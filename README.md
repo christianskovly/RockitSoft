@@ -10,7 +10,7 @@ DEPENDANCIES
 
 Python must be installed along with plotly, dash and pandas.
 
-To install plotly, dash and pandas enter the following and the command prompt.
+To install plotly, dash and pandas enter the following at the command prompt.
 
 pip install plotly
 
