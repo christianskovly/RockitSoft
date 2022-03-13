@@ -24,6 +24,7 @@ USAGE
 2. In terminal, navigate to the folder that contains both the RockitSoft program and data file.
 3. Enter the following at the prompt: python RockitSoft.py
 4. At the prompt, enter the name of the datafile with extension. (ex. 00.CSV)
+5. Enter (CONTROL + C) to end.
 
 The program will then launch your web browser and display graphs for the data collected.
 
@@ -31,8 +32,11 @@ The program will then launch your web browser and display graphs for the data co
 TO DO:
 1. Add a flight summery page that includes:
     a. Total flight time
+
     b. Highest altitude reached and at what time.
+
     c. Highest acceleration reached and at what time.
+
     d. Highest speed reached and at what time.
 
 2. Have the software trim down the data to only include the actual flight
