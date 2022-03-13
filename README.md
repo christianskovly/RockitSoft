@@ -48,12 +48,13 @@ TO DO:
 2. Have the software trim down the data to only include the actual flight.
 3. Add the ability to load another data file without ending the program.
 4. Have the program install dependencies.
-    def install(package):
-       try:
-          pip.main(["install",  package])
-           except AttributeError:
-           check_call([sys.executable, '-m', 'pip', 'install', package])
-           call([sys.executable, __file__])
+    
+        def install(package):
+            try:
+                pip.main(["install",  package])
+                except AttributeError:
+                check_call([sys.executable, '-m', 'pip', 'install', package])
+            call([sys.executable, __file__])
     
     
        try:
