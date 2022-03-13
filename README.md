@@ -30,10 +30,11 @@ TO DO:
 2. Have the software trim down the data to only include the actual flight
 
 
+
 EXAMPLE SCREENS
 
 ALTITUDE
-<img width="1304" alt="Screen Shot 2022-03-09 at 1 46 35 PM" src="https://user-images.githubusercontent.com/66921702/158082845-b57a2496-c287-468b-a640-0a85b3225195.png">
+<img width="1217" alt="Screen Shot 2022-03-13 at 9 22 54 AM" src="https://user-images.githubusercontent.com/66921702/158083084-d9052e65-fd04-4a02-b074-cbae2baeb2ff.png">
 
 FILTERED ALTITUDE
 <img width="1298" alt="Screen Shot 2022-03-13 at 3 56 27 PM" src="https://user-images.githubusercontent.com/66921702/158082883-2a166cb4-eee4-4663-b818-46de4949104d.png">
