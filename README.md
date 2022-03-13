@@ -5,7 +5,9 @@ RockitSoft is a data plotting tool written in Python to support the Rockit Fligh
 
 WHAT IS THE ROCKIT FLIGHT COMPUTER?
 
-Rockit is a Raspberry Pi RP2040 based flight computer designed for model rocketry. For more information please visit https://github.com/DanInvents/Rockit. 
+The Rockit is a Raspberry Pi RP2040 based flight computer designed for model rocketry. 
+It can be purchased here: https://www.tindie.com/products/daninvents/rockit-flight-computer/
+More information can be found: https://github.com/DanInvents/Rockit. 
 
 DEPENDANCIES
 
