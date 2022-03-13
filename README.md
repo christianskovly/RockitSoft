@@ -4,7 +4,7 @@
 RockitSoft is a data plotting tool written in Python to support the Rockit Flight Computer made by @DanInvents.
 
 WHAT IS ROCKIT?
-Rockit is a RP2040 based flight computer designed for model rocketry. More information please visit https://github.com/DanInvents/Rockit. 
+Rockit is a Raspberry Pi RP2040 based flight computer designed for model rocketry. More information please visit https://github.com/DanInvents/Rockit. 
 
 DEPENDANCIES
 pip install plotly
@@ -28,3 +28,23 @@ TO DO:
     d. Highest speed reached and at what time.
 
 2. Have the software trim down the data to only include the actual flight
+
+
+EXAMPLE SCREENS
+
+ALTITUDE
+<img width="1304" alt="Screen Shot 2022-03-09 at 1 46 35 PM" src="https://user-images.githubusercontent.com/66921702/158082845-b57a2496-c287-468b-a640-0a85b3225195.png">
+
+FILTERED ALTITUDE
+<img width="1298" alt="Screen Shot 2022-03-13 at 3 56 27 PM" src="https://user-images.githubusercontent.com/66921702/158082883-2a166cb4-eee4-4663-b818-46de4949104d.png">
+
+ACCELERATION
+<img width="1296" alt="Screen Shot 2022-03-13 at 3 56 40 PM" src="https://user-images.githubusercontent.com/66921702/158082906-a47bd85a-64e8-45f0-b226-cf328bc85131.png">
+
+PERPENDICULAR ACCELERATION
+<img width="1298" alt="Screen Shot 2022-03-13 at 3 56 52 PM" src="https://user-images.githubusercontent.com/66921702/158082928-b433d9e9-29db-4905-898d-13e372473cbf.png">
+
+TEMPERATURE
+<img width="1297" alt="Screen Shot 2022-03-13 at 3 57 04 PM" src="https://user-images.githubusercontent.com/66921702/158082944-67ccc80f-ce37-4bdd-8177-2debdae5aa28.png">
+
+
