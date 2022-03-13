@@ -4,7 +4,7 @@
 RockitSoft is a data plotting tool written in Python to support the Rockit Flight Computer made by @DanInvents.
 
 WHAT IS ROCKIT?
-Rockit is a Raspberry Pi RP2040 based flight computer designed for model rocketry. More information please visit https://github.com/DanInvents/Rockit. 
+Rockit is a Raspberry Pi RP2040 based flight computer designed for model rocketry. For more information please visit https://github.com/DanInvents/Rockit. 
 
 DEPENDANCIES
 pip install plotly
